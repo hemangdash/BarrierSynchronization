@@ -1,4 +1,4 @@
-# Project 2: Barrier Synchronization
+# Barrier Synchronization
 
 Read this assignment description carefully before you begin. Start early, because you will be running performance experiments. You will need time to do the experiments and create a write-up after you finish coding. Most of the points for this assignment will come from the experiments and write-up, so you'll want enough time to do a good job. Also, there are limited resources for running experiments and if everyone waits until the last week then there will be a lot of contention for these resources. (You are solely responsible for finishing on time - too much contention for experimental resources is not an excuse for a late submission, so start early!)
 
